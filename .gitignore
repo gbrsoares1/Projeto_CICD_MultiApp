@@ -1,0 +1,16 @@
+# FastAPI
+apps/fastapi-app/__pycache__/
+apps/fastapi-app/.venv/
+
+# Laravel
+apps/laravel-app/vendor/
+apps/laravel-app/node_modules/
+apps/laravel-app/.env
+apps/laravel-app/storage/logs/*
+
+# Terraform (fase 2)
+infra/terraform/.terraform/
+infra/terraform/*.tfstate*
+
+# Geral
+.DS_Store
